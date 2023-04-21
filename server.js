@@ -12,7 +12,7 @@ try {
     
     // Database connection
     mongoose.connect(
-        'mongodb+srv://paintilya:paintilya@cluster0.hltjmn4.mongodb.net/TodoListApp?retryWrites=true&w=majority', 
+        'MONGOURLHERE', 
         {
             useNewUrlParser: true,
             useUnifiedTopology: true
