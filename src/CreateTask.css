@@ -1,0 +1,12 @@
+.createButton {
+    background: none;
+    color: #ffffff;
+    border: none;
+    font-size: 1em;
+    padding: 1em;
+    font-size: 2em;
+}
+
+.createButton:hover {
+    color: #d6d6d6;
+}

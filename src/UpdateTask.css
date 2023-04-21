@@ -1,0 +1,43 @@
+textarea {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: none;
+    background: none;
+    resize: none;
+    width: 100%;
+    color: #ffffff;
+}
+
+.title {
+    font-size: 1.5em;
+    font-weight: 400;
+}
+
+.description {
+    font-size: 0.9em;
+    font-weight: 300;
+}
+
+.checkButton {
+    border: none;
+    background: none;
+    font-size: 3em;
+}
+
+.saveButton {
+    background-color: #43943c;
+    color: #ffffff;
+    border: none;
+    border-radius: 0.5em;
+    padding: 0.5em 2em 0.5em 2em;
+}
+
+.saveButton:hover {
+    background-color: #3a7e34;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {
+    outline: none;
+}
